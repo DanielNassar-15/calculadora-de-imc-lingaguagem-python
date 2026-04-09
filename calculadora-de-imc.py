@@ -1,4 +1,5 @@
 altura = float(input("Qual sua altura?: ")) 
+altura = altura / 100
 #insira sua altura.
 
 peso = float(input("Qual seu peso?: ")) 
